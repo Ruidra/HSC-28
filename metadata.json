@@ -1,0 +1,6 @@
+{
+  "name": "HSC Mentor AI",
+  "description": "Complete AI-powered HSC 2028 study companion, personal teacher, planner, and exam simulator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
